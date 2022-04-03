@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://priyanka348.github.io/csb-y2mqcl/static/css/main.d2fa7908.chunk.css",
+    "main.js": "https://priyanka348.github.io/csb-y2mqcl/static/js/main.3cf3f49e.chunk.js",
+    "main.js.map": "https://priyanka348.github.io/csb-y2mqcl/static/js/main.3cf3f49e.chunk.js.map",
+    "runtime-main.js": "https://priyanka348.github.io/csb-y2mqcl/static/js/runtime-main.149baeab.js",
+    "runtime-main.js.map": "https://priyanka348.github.io/csb-y2mqcl/static/js/runtime-main.149baeab.js.map",
+    "static/js/2.ee4b6c6b.chunk.js": "https://priyanka348.github.io/csb-y2mqcl/static/js/2.ee4b6c6b.chunk.js",
+    "static/js/2.ee4b6c6b.chunk.js.map": "https://priyanka348.github.io/csb-y2mqcl/static/js/2.ee4b6c6b.chunk.js.map",
+    "static/js/3.5920e7ab.chunk.js": "https://priyanka348.github.io/csb-y2mqcl/static/js/3.5920e7ab.chunk.js",
+    "static/js/3.5920e7ab.chunk.js.map": "https://priyanka348.github.io/csb-y2mqcl/static/js/3.5920e7ab.chunk.js.map",
+    "index.html": "https://priyanka348.github.io/csb-y2mqcl/index.html",
+    "static/css/main.d2fa7908.chunk.css.map": "https://priyanka348.github.io/csb-y2mqcl/static/css/main.d2fa7908.chunk.css.map",
+    "static/js/2.ee4b6c6b.chunk.js.LICENSE.txt": "https://priyanka348.github.io/csb-y2mqcl/static/js/2.ee4b6c6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.149baeab.js",
+    "static/js/2.ee4b6c6b.chunk.js",
+    "static/css/main.d2fa7908.chunk.css",
+    "static/js/main.3cf3f49e.chunk.js"
+  ]
+}
